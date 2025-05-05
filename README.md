@@ -2,15 +2,15 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
 
-## Description
+## Descripción.
 Proyecto en NestJs
-## Project setup
+## Configuraciones del proyecto.
 
 ```bash
 $ npm install
 ```
 
-## Compile and run the project
+## Compile y corra el proyecto.
 
 ```bash
 # development
