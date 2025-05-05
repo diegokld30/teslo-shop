@@ -13,19 +13,14 @@ Proyecto en NestJs para manejar productos
 git clone https://github.com/diegokld30/teslo-shop.git
 ```
 
+## 2 - Instalar dependencias
 ```bash
 $ npm install
 ```
 
-## Compile y corra el proyecto.
+## 3 - Correr el proyecto
+
 
 ```bash
-# development
-$ npm run start
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
+npm run start:dev
 ```
