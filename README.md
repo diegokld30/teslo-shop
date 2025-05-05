@@ -3,8 +3,15 @@
 </p>
 
 ## Descripción.
-Proyecto en NestJs
+Proyecto en NestJs para manejar productos
+
 ## Configuraciones del proyecto.
+
+## 1 - Clonar:
+
+```
+git clone https://github.com/diegokld30/teslo-shop.git
+```
 
 ```bash
 $ npm install
